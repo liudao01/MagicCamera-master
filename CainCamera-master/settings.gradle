@@ -1,0 +1,2 @@
+include ':app', ':cameralibrary', ':facedetectlibrary', ':ffmpeglibrary', ':filterlibrary',
+        ':ffmpeglibrary', ':landmarklibrary', ':medialibrary', ':imagelibrary', ':utilslibrary', ':videolibrary'
